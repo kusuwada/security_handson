@@ -1,6 +1,6 @@
-# Web Security Hanson #1
+# Web Security Hands-on #1
 
-Web Security Hanson の1回目用 ソースコード＆ドキュメントです。  
+Web Security Hands-on の1回目用 ソースコード＆ドキュメントです。  
 
 ## 難易度
 
@@ -26,4 +26,4 @@ Web Security Hanson の1回目用 ソースコード＆ドキュメントです�
 
 ## ハンズオン資料
 
-* SecurityHanson_Web#1.pdf
+* SecurityHandson_Web#1.pdf

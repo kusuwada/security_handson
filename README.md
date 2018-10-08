@@ -1,6 +1,6 @@
-# Security Hanson
+# Security Hands On
 
-This repository is for Security Hanson.  
+This repository is for Security Hands-on.  
 Please refer README of each event's sub directory for the targets and difficulty level of the evnt.
 
 セキュリティ関連のハンズオンのためのリポジトリです。  
